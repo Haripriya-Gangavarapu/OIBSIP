@@ -1,0 +1,61 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: hsl(120, 2%, 26%);
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin:0;
+}
+#list{
+	font-size: 20px;
+}
+div{
+	margin:0;
+}
+
+#about{
+	background-color: cadetblue;
+	margin-top: 0;
+	
+}
+#projects{
+	background-color: gainsboro;
+	padding-top: 5px;
+}
+#contact{
+	background-color: rgb(202, 194, 184);
+	margin-top: 0;
+	padding-top:5px;
+
+}
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: space-between;
+}
+nav li {
+	margin-right: 20px;
+}
+nav a{
+	color:blue;
+}
+.fo{
+	align-items: center;
+	padding-bottom: 25px;
+}
+.f{
+    background-color:#676363;
+color: white;
+margin-top: 10px;
+margin-bottom: 20px;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 30px;
+font-size: 20px;
+}
